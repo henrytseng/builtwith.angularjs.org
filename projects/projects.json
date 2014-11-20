@@ -3580,7 +3580,26 @@
         "No jQuery",
         "Bootstrap"
       ]
+    },
+    {
+      "name": "Gigzolo",
+      "thumb": "gigzolo/thumb.png", 
+      "desc": "Gigzolo is an online platform for booking musician, photographers, and videographers.", 
+      "url": "http://www.gigzolo.com",
+      "submitter": "henrytseng", 
+      "submissionDate": "2014-11-20", 
+      "tags": [
+        "Booking", 
+        "Event planning", 
+        "Events",
+        "Platform", 
+        "Music", 
+        "Photography", 
+        "Videography", 
+        "Marketplace", 
+        "Entertainment", 
+        "Production"
+      ]
     }
-
   ]
 }
